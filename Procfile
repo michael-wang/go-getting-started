@@ -1,1 +1,1 @@
-web: bin\go-getting-started.exe
+web: bin/go-getting-started
